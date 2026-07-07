@@ -18,8 +18,8 @@
 // ============================================================
 export const CONFIG = {
   // من: Supabase Dashboard → Settings → API
-  SUPABASE_URL: "https://anuzokpywchbrofjoioi.supabase.co",
-  SUPABASE_ANON_KEY: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImFudXpva3B5d2NoYnJvZmpvaW9pIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODMzNDg4MjYsImV4cCI6MjA5ODkyNDgyNn0.pI4VGUpa-wWH27OjNYQvXHLgxJF-oULwKZAxgTHKvKk",
+  SUPABASE_URL: "https://xkjttozzbelzrvvyause.supabase.co",
+  SUPABASE_ANON_KEY: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InhranR0b3p6YmVsenJ2dnlhdXNlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODM0NDk1NjcsImV4cCI6MjA5OTAyNTU2N30._Y--QKpLVIxm_f_6z0cDQqARNLnARUR3Vw_3hn6MNYQ",
 
   // رقم الواتساب الافتراضي للدعم (بصيغة دولية بدون + أو صفر البداية)
   // مثال مصر: 201xxxxxxxxx | مثال السعودية: 9665xxxxxxxx
