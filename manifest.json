@@ -1,0 +1,19 @@
+{
+  "_note_maskable_icon": "ملاحظة للمطوّر فقط (المتصفح يتجاهل هذا الحقل غير المعياري): الأيقونة أدناه ذات purpose=maskable تستخدم نفس icon-512.png العادي بدون هامش أمان (Safe Zone)، وقد تُقص حوافها على أندرويد. يُوصى باستبدالها بنسخة تحتوي المحتوى الأساسي داخل دائرة نصف قطرها 80% من الأيقونة — يمكن إنشاؤها بسهولة عبر أداة Maskable.app (maskable.app)",
+  "name": "رحلة الحياة الزوجية",
+  "short_name": "رحلتي",
+  "description": "منصة تعليمية تفاعلية لمراحل ما قبل الزواج وحتى الاستقرار الأسري",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F7F4ED",
+  "theme_color": "#1B4B43",
+  "dir": "rtl",
+  "lang": "ar",
+  "icons": [
+    { "src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
